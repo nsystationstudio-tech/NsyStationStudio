@@ -179,13 +179,23 @@
               "icon": "lucide-list",
               "title": "ceshiceshi 的大纲"
             }
+          },
+          {
+            "id": "1d67698c41c9558f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7434a335e217c8a6",
+  "active": "adc81aacecbb1c1d",
   "lastOpenFiles": [
     "ceshiceshi2.md",
     "ceshiceshi.md",

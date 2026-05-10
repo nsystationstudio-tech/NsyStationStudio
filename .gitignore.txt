@@ -1,2 +1,0 @@
-.obsidian/wgrkspace.jso
-.obsidian/workspace-mobile.json|
